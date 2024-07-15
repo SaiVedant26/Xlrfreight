@@ -1,2 +1,2 @@
 # Xlrfreight
-Hardware Accelerator ASIC for CNNs trained on MNIST. 
+Hardware Accelerator ASIC and Parallel Processing for CNNs trained on MNIST. 
